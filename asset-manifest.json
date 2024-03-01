@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.64586df6.css",
+    "main.js": "/static/js/main.c1578de6.js",
+    "static/js/453.73c1d618.chunk.js": "/static/js/453.73c1d618.chunk.js",
+    "static/media/logo-ecomers.png": "/static/media/logo-ecomers.b7f8cd6d95525039f2a6.png",
+    "static/media/FOTOYAPE.jpg": "/static/media/FOTOYAPE.44bbd221c51cca084c75.jpg",
+    "static/media/interbank-logo.png": "/static/media/interbank-logo.84648b5dc99a5db7ce4d.png",
+    "static/media/bbva-pago.png": "/static/media/bbva-pago.5abe64f745f3cf88a19f.png",
+    "static/media/bcp-pago.png": "/static/media/bcp-pago.aff27840835fdbc6b3bc.png",
+    "index.html": "/index.html",
+    "main.64586df6.css.map": "/static/css/main.64586df6.css.map",
+    "main.c1578de6.js.map": "/static/js/main.c1578de6.js.map",
+    "453.73c1d618.chunk.js.map": "/static/js/453.73c1d618.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64586df6.css",
+    "static/js/main.c1578de6.js"
+  ]
+}
